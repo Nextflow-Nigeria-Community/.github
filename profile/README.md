@@ -1,10 +1,10 @@
-# Nextflow Nigeria Community 🇳🇬
+# Nigerian Nextflow Community 🇳🇬
 
 > Building a community of researchers and scientists in Nigeria through reproducible bioinformatics, Nextflow training, and collaborative genomics research.
 
 ## About Us
 
-**Nextflow Nigeria Community** is a community for researchers, students, bioinformaticians, and scientists interested in building practical skills in reproducible and scalable computational research.
+**Nigerian Nextflow Community** is a community for researchers, students, bioinformaticians, and scientists interested in building practical skills in reproducible and scalable computational research.
 
 We connect researchers across Nigeria through hands-on training, knowledge sharing, and collaborative projects using **Nextflow** and the broader **nf-core** ecosystem.
 
@@ -12,7 +12,7 @@ We connect researchers across Nigeria through hands-on training, knowledge shari
 
 - Hands-on Nextflow and nf-core training
 - Reproducible bioinformatics workflow development
-- Genomics and microbiome research
+- Genomics and bioinformatics research
 - Research collaboration and knowledge sharing
 - Open-source learning resources
 - Connecting Nigerian researchers with the global Nextflow community
@@ -31,4 +31,4 @@ Whether you are new to bioinformatics or an experienced researcher, you are welc
 
 Built by researchers, for researchers.
 
-🇳🇬 **Nextflow Nigeria Community**
+🇳🇬 **Nigerian Nextflow Community**
